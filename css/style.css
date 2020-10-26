@@ -1,0 +1,23 @@
+.navbar {
+    background-color: white;
+}
+
+.navbar-collapse {
+    margin-left: 60vh;
+    text-decoration-color: black;
+}
+
+.carreiraConteudo {
+    height: 10vh;
+    background-color: #FDBF07;
+    
+}
+
+.margin {
+    padding-top: 30px;
+}
+
+.padding {
+    padding-top:3vh;
+}
+
